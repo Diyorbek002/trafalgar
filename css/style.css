@@ -1,0 +1,347 @@
+
+.container{
+    max-width: 1160;
+    margin: 0 auto;
+    padding: 0;
+    background-color: rgb(238, 252, 252);
+
+}
+.nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.header{
+    width: 100%;
+    margin-bottom: 100px;
+}
+ul{
+    margin-left: auto;
+    display: flex;
+}
+li{
+    display:flex;
+    padding: 10px;
+}
+.image{
+    margin-right: 10px;
+}
+ul li a{
+    text-decoration: none;
+    color: #808080;
+}
+#math{
+    margin-top: 50px;
+    width: 100%;
+    height: 400px;   
+}
+
+.our-services{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.Rectangle{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   align-items: center;
+
+}
+
+.box1{
+    display: inline-block;
+    width: 50%;
+    height: 600px;
+    vertical-align: middle;
+}
+.btn{
+    width: 200px;
+    height: 56px;
+    background-color: #458FF6;
+    border: 1px;
+    border-radius: 25px;
+    color: #fff;
+    margin:20px ;
+
+}
+.box2{
+    display: inline-block;
+    width: 40%;
+    height: 600px;
+}
+
+.box1 h1{
+    width: 300px;
+    padding: 10px;
+    margin: 20px;
+}
+.box1 p{
+    width: 300px;
+    padding: 10px;
+    margin: 20px;
+    color: #808080;
+}
+.rasm{
+    width: 100%;
+}
+
+.math2{
+    width: 100%;
+    height: 600px;
+}
+ .our{
+    text-align: center;
+    font-family: sans-serif;
+    margin: 20px;
+
+}
+.We{
+    text-align: center;
+    font-family: sans-serif;
+    margin: 60px;
+    color: #808080;
+}
+#mini{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.item{
+    width: 30%;
+    background-color:#FFFFFF;
+    border: 1px;
+    border-radius: 20px;
+    margin-top: 20px;
+   padding: 40px 30px;
+}
+.logo{
+    margin:20px;
+}
+.logobek{
+    margin: 30px;
+}
+.learn{
+    width: 200px;
+    height: 56px;
+    text-align: center;
+    border: 1px solid rgb(59, 169, 241);
+    background-color: white;
+    border-radius: 25px;
+    color:rgb(59, 169, 241);
+    margin-top: 60px;
+    margin-bottom: 200px;
+}
+.img2{
+    width:500px
+}
+.out-btn{
+    display: flex;
+    justify-content: center;
+}
+.Leading{
+    display: block;
+    width: 50%;
+    padding: 10px;
+    margin: 20px;
+}
+.learn{
+    width: 200px;
+    height: 56px;
+    border: 1px solid rgb(59, 169, 241);
+    background-color: white;
+    border-radius: 25px;
+    color:rgb(59, 169, 241);
+    margin-top: 60px;
+    margin-bottom: 200px;
+}
+.dowland{
+    width: 300px;
+    display: block;
+    margin: 10px;
+    padding: 10px;
+}
+.ppp{
+    margin: 10px;
+    padding: 10px;
+    color: #7D7987;
+}
+.doctor{
+    margin-left: 150px;
+}
+.item2{
+    display:block;
+    margin-left: 120px;
+    
+}
+.saction{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.text1{
+    width: 300px;
+    padding-top: 30px;
+    color: #7D7987;
+}
+
+.learn1{
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    border: 1px solid rgb(59, 169, 241);
+    background-color: white;
+    border-radius: 25px;
+    color:rgb(59, 169, 241);
+    margin-top: 60px;
+    margin-bottom: 200px;
+}
+.fuck{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.icon-up{
+    margin-left: 10px;
+}
+.learn .qqq{
+    margin: 10px;
+    padding: 10px;
+    color: #7D7987;
+}
+.can{
+    width: 30%;
+}
+.customer-opinyon{
+    width: 70%;
+    height: 400px;
+    margin: 0 auto;
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    border-radius: 22px;
+}
+.customer{
+    width: 100%;
+    margin: auto;
+    display: flex;
+   
+}
+.what{
+    text-align: center;
+    padding: 10px;
+    color: white;
+    padding-top:100px;
+}
+.itemlarlar1{
+    width: 20%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.itemlarlar2{
+    width: 30%;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.itemlarlar3{
+    width: 50%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.arow-nav{
+    display: block;
+    text-align: center;
+}
+.iv{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.big-div-one{
+    width: 100%;
+    margin-top: 300px;
+
+}
+.chec{
+    text-align: center;
+    padding-bottom: 200px;
+}
+.smoll-div-one{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.imem{
+    width: 20%;
+    height: 600px;
+}
+.imem > h1{
+
+
+    padding: 20px;
+}
+.imem >p {
+    padding: 20px;
+    color: #7D7987;
+}
+.imem > a{
+    padding: 20px;
+    color: #458FF6;
+    text-decoration: none;
+}
+.bym{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.bym > .learn1-2{
+    width: 200px;
+    height: 56px;
+    border: 1px solid rgb(59, 169, 241);
+    background-color: white;
+    border-radius: 25px;
+    color:rgb(59, 169, 241);
+    margin-bottom: 200px    ;
+}
+
+.footer{
+    width: 100%;
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    color: white;
+   padding: 40px;
+   align-items: center;
+}
+.first{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.second{
+    width: 400px;
+}
+.second > p{
+    padding-top: 24px;
+    padding-bottom: 30px;
+}
+
+.third{
+    font-size: 20px;
+    padding-bottom: 24px;
+}
+.one > p{
+    padding: 6px;
+}
